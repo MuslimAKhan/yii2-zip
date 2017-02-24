@@ -1,4 +1,4 @@
-```
+
 private function zipFolder($tempFolder){
 		// Get real path for our folder
 		$rootPath = realpath("/tmp/" . $tempFolder);
@@ -45,4 +45,3 @@ private function zipFolder($tempFolder){
 
 
 
-```
