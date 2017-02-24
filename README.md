@@ -1,6 +1,6 @@
 # yii2-zip
 
-Change php function of using zipArchive to yii2
+Change php function of zipArchive to be used in yii2
 
 ##1. Need install zip extension of php
 ```
